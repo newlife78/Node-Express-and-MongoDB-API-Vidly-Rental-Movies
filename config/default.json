@@ -1,0 +1,7 @@
+{
+    "name": "Vidly APP",
+    "PORT_ONE": "",
+    "PORT_TWO": "",
+    "jwtPrivateKey": "",
+    "db": "mongodb://localhost/vidly"
+}

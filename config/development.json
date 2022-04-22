@@ -1,0 +1,6 @@
+{
+    "name": "Vidly APP",
+    "PORT_ONE": "1234",
+    "PORT_TWO": "1236",
+    "db": "mongodb://localhost/vidly"
+}
